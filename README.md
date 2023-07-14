@@ -6,6 +6,7 @@ Real estate-backed securities (Real-estate NFT) are issued in the form of blockc
 
 ## Info
 Project Name: Real-estate NFT investment platform service
+
 Token Name: FOG
 
 ### Etherscan
