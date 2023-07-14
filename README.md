@@ -16,5 +16,7 @@ Token Name: FOG
 
 ### Social
 Telegram: [https://t.me/fogtoken](https://t.me/fogtoken)
+
 KakaoTalk: [https://open.kakao.com/o/gi1wUlte](https://open.kakao.com/o/gi1wUlte)
+
 Xangle: [https://xangle.io/project/FOG](https://xangle.io/project/FOG)
